@@ -17,3 +17,4 @@ d <- 10
 print(class(d))
 e <- TRUE
 print(class(e))
+print("Test this file by yourself.")
