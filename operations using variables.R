@@ -45,3 +45,8 @@ print(paste("VarAbc is",VarAbc))
 # _var_1 <- "illegal" -----> Not executing because it will throw an error check it by yourself
 # var@123 <- "illegal" -----> Not executing because it will throw an error check it by yourself
 # True <- "illegal"  -----> boolean values can't be used as variable names. Not executing because it will throw an error check it by yourself
+
+print("You can't add a string and a number. If you try to do it you will face an error")
+name <- "Name"
+age <- 20
+# print(paste(name+age)) ------> It wil thorow an error try it yourself
